@@ -22,7 +22,7 @@ Choosing the right forex broker is essential for traders aiming to maximize prof
 | Liquidity power | No information | 
 | Mobile trading | Yes |
 
-![image]()
+![image](https://github.com/Broker-review/FirstECN-review/blob/4d9e8e21ae7c33a5d7087d1f564cd280060f5745/FirstECN-home.png)
 
 Overview of FirstECN
 --------------------
