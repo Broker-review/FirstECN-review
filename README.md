@@ -9,7 +9,7 @@ Choosing the right forex broker is essential for traders aiming to maximize prof
 | **Asset** | **details** | 
 |-------------| -------------- | 
 | Trading platform | WebTrader | 
-| Accounts | Demo, Silver, Gold, Platinum, Islamic | 
+| Accounts | Standard ECN, Pro ECN, Vip ECN, Islamic | 
 | Account currency | USD | 
 | Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
 | Minimum deposit | 250 USD | 
@@ -134,8 +134,15 @@ FirstECN provides a variety of educational tools to help traders improve their s
 Pros & Cons of FXroad
 -----------------------------
 
-✅ Pros: Regulated broker with transparent policies Wide range of trading instruments Competitive spreads and leverage Fast execution speeds Comprehensive educational resources 
-❌ Cons: No PAMM accounts available Limited leverage compared to some other brokers Higher minimum deposits required for premium accounts
+✅ Pros: - 
+- Regulated broker ensuring transparency
+-  ECN execution model with direct market access
+-  Competitive spreads and high leverage options
+-  Fast execution speeds Comprehensive educational resources 
+❌ Cons:
+- Limited cryptocurrency offerings compared to crypto-dedicated exchanges
+- Higher minimum deposits required for premium accounts
+- No PAMM or copy-trading accounts available
 
 Final Verdict: Is FirstECN Worth It?
 ------------------------------------
